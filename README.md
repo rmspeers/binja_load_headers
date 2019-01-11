@@ -1,34 +1,27 @@
-# Sample Plugin (v1.0 alpha)
-Author: **Vector 35 LLC**
+# Header Plugin (v0.5 alpha)
+Author: **River Loop Security LLC**
 
-_This is a short description meant to fit on one line._
+_Pre-process headers and load them into BinaryNinja, setting types and function prototypes from them._
 
 ## Description:
 
-This is a longer description meant for a sample plugin that demonstrates the metadata format for Binary Ninja plugins.
-
-The forthcoming plugin installer will be able to parse these files automatically to allow easy selection and installation. 
+TODO
 
 ## Minimum Version
 
 This plugin requires the following minimum version of Binary Ninja:
 
- * release - 9999
- * dev - 1.0.dev-576
+ * release - TODO
+ * dev - TODO
 
 
 ## Required Dependencies
 
 The following dependencies are required for this plugin:
 
- * pip - array, of, pip, dependencies
- * installers - https://bogus-domain/this-package.exe
- * other - The sample plugin requires [this random package](https://bogus-domain/this-package/) be installed.
- * apt - apt, packages
-
+ * pip - pcpp
 
 ## License
 
 This plugin is released under a [MIT](LICENSE) license.
-
 
